@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 //ㅈㄴ 어이없네
-///u,v가 1부터라서 for문을 1부터 돌려야 됨 시ㅏㅂㄹ
+///u,v가 1부터라서 for문을 1부터 돌려야 됨 
 
 int n, m;
 int res;
