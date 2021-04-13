@@ -5,7 +5,7 @@
 #include <string>
 using namespace std;
 
-//어려운 문제 시발롬
+//어려운 문제 
 
 int n;
 int map[101][101];
