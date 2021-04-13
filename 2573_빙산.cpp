@@ -2,7 +2,7 @@
 #include <string.h>
 using namespace std;
 
-//bfs로 바꿨는데 왜 안되는지 ㄹㅇㄹㅇㄹㅇㄹㅇ 모르겠음 ; ;ㅅㅂ
+//bfs로 바꿨는데 왜 안되는지 ㄹㅇㄹㅇㄹㅇㄹㅇ 모르겠음 ; ;
 int n, m;
 int map[301][301];
 bool isvisited[301][301];
