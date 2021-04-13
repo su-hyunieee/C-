@@ -6,7 +6,6 @@ using namespace std;
 // greater 하면 오름차순
 //https://rebas.kr/714
 
-//아 존나 어렵다 시발롬
 
 struct shark{
     
