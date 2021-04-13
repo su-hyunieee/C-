@@ -6,7 +6,6 @@
 using namespace std;
 
 /*
-신박하게 빡치게함 시발롬
 string -> map 하는거 기억해두기 . .
 set은 중복 안 되니까 visited로 쓰기 .. ~
 */
