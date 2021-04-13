@@ -2,7 +2,7 @@
 #include <queue>
 using namespace std;
 
-//bfs가 더 어렵다 시발
+//bfs가 더 어렵다 
 //#똥먹기완승
 int n, m;
 int map[101][101];
