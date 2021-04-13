@@ -4,7 +4,6 @@
 #include <queue>
 using namespace std;
 
-//존나 어려운데 ?? 시발롬
 //블락이 일일때 ? 생각 안 해줘도 되는게 신기;;
 
 int n, m;
